@@ -38,7 +38,7 @@
 	<li><strong>Vorlagen-Grundbilder</strong> beachte den Kommentar in der app/index.html - alle deine Vorlagen-Grundbilder (og:image for social networking, favicons for a variety of devices) werden dor verlinkt.</li>
 	<li><strong>Benutzerdefinierte Browser Farbe</strong> beachte den Kommentar in app/index.html: Lege die Farbe des Browserkopfs auf einer Vielzahl von Geräten fest.</li>
 	<li><strong>Angepasste HTML</strong> beachte den Kommentar in app/index.html - hier landet dein ganz persönlicher HTML code.</li>
-	<li>Um die neue jQuery-Bibliothek zu installieren oder weitere externe Bibliotheken wie animejs etc, führe einfach den Befehl "<strong>npm i "<packetname>"</strong>" im Terminal aus. Danach müssen die Bibliothekspfade nur noch in der <strong>(gulpfile.js)</strong> in den <strong>scriptsTask</strong>auf Zeile 39 eingefügt werden.</li>
+	<li>Um die neue jQuery-Bibliothek zu installieren oder weitere externe Bibliotheken wie animejs etc, führe einfach den Befehl "<strong>npm i "packetname"</strong>" im Terminal aus. Danach müssen die Bibliothekspfade nur noch in der <strong>(gulpfile.js)</strong> in den <strong>scriptsTask</strong>auf Zeile 39 eingefügt werden.</li>
 	<li>Alle benutzerdefinierten JS Dateien findet ihr in <strong>app/js/common.js</strong>.</li>
 	<li>Alle Sass variablen findet ihr in <strong>app/sass/_vars.sass | app/scss/_vars.scss</strong>;</li>
 	<li>Alle Bootstrap media queries findet ihr in <strong>app/sass/_media.sass | app/scss/_media.scss</strong>;</li>
