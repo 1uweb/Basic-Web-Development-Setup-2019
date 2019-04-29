@@ -1,0 +1,5 @@
+$(function() {
+
+	// benutzerdefinierte JS
+
+});
